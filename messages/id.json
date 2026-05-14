@@ -1,0 +1,447 @@
+{
+    "meta": {
+        "title": "halotamu — Buku Tamu Digital untuk Perumahan & Gedung di Indonesia",
+        "description": "Warga setujui tamu langsung dari WhatsApp sebelum tamu masuk gerbang. Buku tamu digital untuk perumahan, apartemen, dan kantor."
+    },
+    "languageToggle": {
+        "label": "Bahasa",
+        "id": "ID",
+        "en": "EN"
+    },
+    "header": {
+        "links": {
+            "problem": "Masalah",
+            "how": "Cara Kerja",
+            "features": "Fitur",
+            "useCases": "Untuk Siapa",
+            "demo": "Demo",
+            "pricing": "Harga",
+            "faq": "FAQ"
+        },
+        "cta": "Hubungi via WhatsApp",
+        "menu": "Menu",
+        "close": "Tutup"
+    },
+    "hero": {
+        "tag": "Khusus properti di Indonesia",
+        "title": "Warga setujui tamu langsung dari WhatsApp, sebelum tamu masuk gerbang.",
+        "subtitle": "Solusi buku tamu digital untuk perumahan, apartemen, dan gedung kantor — aman, cepat, tanpa aplikasi tambahan untuk warga.",
+        "primaryCta": "Hubungi via WhatsApp",
+        "secondaryCta": "Lihat Demo",
+        "trustBadges": [
+            "Notifikasi WA otomatis",
+            "Setuju 1-klik",
+            "Tanpa install aplikasi"
+        ],
+        "mockup": {
+            "appLabel": "WhatsApp",
+            "contactName": "halotamu Pos Satpam",
+            "contactStatus": "online",
+            "messageHeading": "Halo Pak Budi,",
+            "messageBody": "Ada tamu di gerbang:",
+            "guestNameLabel": "Nama",
+            "guestName": "Andi Saputra",
+            "purposeLabel": "Keperluan",
+            "purpose": "Mengantar paket",
+            "approve": "Setujui",
+            "reject": "Tolak",
+            "footnote": "Link berlaku 2 jam"
+        }
+    },
+    "problem": {
+        "eyebrow": "Masalah",
+        "title": "Buku tamu manual sudah tidak cukup",
+        "subtitle": "Antrian, data palsu, dan warga yang tidak tahu siapa yang datang — tantangan harian yang masih dialami banyak properti.",
+        "items": [
+            {
+                "icon": "clock",
+                "title": "Lambat & antri di gerbang",
+                "description": "Satpam menulis manual, tamu ikut antri, kendaraan menumpuk di jam sibuk."
+            },
+            {
+                "icon": "shield",
+                "title": "Mudah dipalsukan, sulit dilacak",
+                "description": "Identitas tamu sering ditulis seadanya. Saat ada masalah, data tidak bisa diandalkan."
+            },
+            {
+                "icon": "phone-off",
+                "title": "Warga tidak tahu siapa yang datang",
+                "description": "Komunikasi antara satpam dan warga lewat telepon manual — sering terlewat dan menyita waktu."
+            }
+        ]
+    },
+    "how": {
+        "eyebrow": "Cara Kerja",
+        "title": "3 langkah, semua otomatis",
+        "subtitle": "Dari gerbang ke ruang tamu hanya dalam hitungan menit, tanpa aplikasi baru untuk warga.",
+        "steps": [
+            {
+                "number": "01",
+                "title": "Tamu register di pos satpam",
+                "description": "Satpam input data tamu, pilih warga tujuan dari daftar. Cepat, tinggal isi yang penting."
+            },
+            {
+                "number": "02",
+                "title": "Warga terima WhatsApp",
+                "description": "Pesan otomatis berisi detail tamu plus tombol Setujui dan Tolak. Cukup satu klik dari HP."
+            },
+            {
+                "number": "03",
+                "title": "Satpam lihat status real-time",
+                "description": "Logbook diperbarui saat itu juga. Hijau berarti boleh masuk, merah berarti ditolak."
+            }
+        ],
+        "highlight": "Semua via WhatsApp — warga tidak perlu install aplikasi baru."
+    },
+    "features": {
+        "eyebrow": "Fitur",
+        "title": "Dirancang untuk operasional sehari-hari",
+        "subtitle": "Tools yang dipakai satpam, manajemen, dan warga setiap hari. Sederhana di permukaan, lengkap di belakangnya.",
+        "items": [
+            {
+                "icon": "bell",
+                "title": "Notifikasi WhatsApp Otomatis",
+                "description": "Pesan langsung sampai ke HP warga tanpa setup tambahan."
+            },
+            {
+                "icon": "tap",
+                "title": "Persetujuan 1-Klik",
+                "description": "Warga cukup klik Setujui atau Tolak dari pesan WA."
+            },
+            {
+                "icon": "log",
+                "title": "Logbook Digital Real-Time",
+                "description": "Daftar tamu yang masih di dalam, terupdate otomatis."
+            },
+            {
+                "icon": "chart",
+                "title": "Laporan Harian & Mingguan",
+                "description": "Ringkasan kunjungan untuk laporan ke manajemen properti."
+            },
+            {
+                "icon": "buildings",
+                "title": "Multi-Properti",
+                "description": "Satu dashboard untuk banyak gerbang dan banyak properti."
+            },
+            {
+                "icon": "lock",
+                "title": "Data Aman & Tersimpan Cloud",
+                "description": "Backup otomatis, akses sesuai role, audit log lengkap."
+            }
+        ]
+    },
+    "useCases": {
+        "eyebrow": "Cocok Untuk",
+        "title": "Properti apa pun, satu sistem",
+        "subtitle": "Disesuaikan dengan alur operasional Anda, bukan sebaliknya.",
+        "items": [
+            {
+                "label": "Perumahan & Cluster",
+                "title": "RT/RW dan pengelola perumahan",
+                "description": "Cocok untuk cluster dengan satu pos jaga atau lebih. Warga merasa lebih tenang karena ikut menentukan siapa yang masuk komplek mereka."
+            },
+            {
+                "label": "Apartemen & Kondominium",
+                "title": "Tower dengan banyak unit",
+                "description": "Tamu, kurir, dan teknisi dipilah otomatis. Penghuni cukup membalas dari WhatsApp tanpa perlu turun ke lobby."
+            },
+            {
+                "label": "Gedung Perkantoran",
+                "title": "Lobby & resepsionis",
+                "description": "Pengunjung tercatat rapi untuk audit, sambil tetap memberikan pengalaman yang ramah dan profesional kepada tamu."
+            }
+        ]
+    },
+    "demo": {
+        "eyebrow": "Demo",
+        "title": "Lihat alurnya dari tiga sisi",
+        "subtitle": "Tampilan untuk satpam, dashboard manajemen, dan pesan yang diterima warga — semua disiapkan dalam halotamu.",
+        "items": [
+            {
+                "title": "Pos Satpam",
+                "description": "Form check-in singkat di tablet atau HP yang dipakai satpam jaga.",
+                "badge": "Front-Desk"
+            },
+            {
+                "title": "Dashboard Manajemen",
+                "description": "Logbook real-time dan laporan harian untuk pengelola properti.",
+                "badge": "Logbook"
+            },
+            {
+                "title": "Pesan WhatsApp Warga",
+                "description": "Pesan singkat berisi detail tamu, tombol Setujui dan Tolak.",
+                "badge": "WhatsApp"
+            }
+        ],
+        "footnote": "Mau lihat langsung? Kami siapkan demo via panggilan video kapan pun Anda butuhkan."
+    },
+    "pricing": {
+        "eyebrow": "Harga",
+        "title": "Paket sesuai ukuran properti Anda",
+        "subtitle": "Mulai dari biaya setup awal lalu langganan bulanan yang menyesuaikan jumlah unit. Semua paket termasuk update fitur dan dukungan via WhatsApp.",
+        "setup": {
+            "label": "Biaya Setup Awal",
+            "amount": "Rp 1.500.000 – Rp 2.500.000",
+            "frequency": "(satu kali bayar)",
+            "description": "Pemasangan dan konfigurasi sistem halotamu untuk satu perumahan atau klaster. Termasuk onboarding petugas satpam dan pendaftaran nomor WhatsApp penghuni."
+        },
+        "subscriptionLabel": "Langganan Bulanan",
+        "currency": "Rp",
+        "perMonthSuffix": "/ bulan",
+        "popularBadge": "Paling Populer",
+        "plans": [
+            {
+                "id": "starter",
+                "name": "Starter",
+                "tagline": "Untuk klaster kecil yang baru mulai digital.",
+                "amount": "199.000",
+                "limit": "Hingga 50 unit rumah",
+                "features": [
+                    "Notifikasi WhatsApp tak terbatas",
+                    "Dashboard satpam real-time",
+                    "Persetujuan 1-klik dari warga",
+                    "Dukungan teknis dasar (jam kerja)"
+                ],
+                "cta": "Konsultasi paket Starter"
+            },
+            {
+                "id": "growth",
+                "name": "Growth",
+                "tagline": "Pilihan paling pas untuk perumahan menengah.",
+                "amount": "349.000",
+                "limit": "Hingga 150 unit rumah",
+                "popular": true,
+                "features": [
+                    "Semua fitur Starter",
+                    "Riwayat data tamu hingga 12 bulan",
+                    "Laporan bulanan otomatis",
+                    "Ekspor data CSV / Excel"
+                ],
+                "cta": "Konsultasi paket Growth"
+            },
+            {
+                "id": "pro",
+                "name": "Pro",
+                "tagline": "Untuk pengelola besar dengan banyak klaster.",
+                "amount": "499.000",
+                "limit": "Lebih dari 150 unit rumah",
+                "features": [
+                    "Semua fitur Growth",
+                    "Integrasi multi-klaster dalam 1 dashboard",
+                    "Dukungan teknis prioritas",
+                    "Onboarding & training lanjutan"
+                ],
+                "cta": "Konsultasi paket Pro"
+            }
+        ],
+        "footnote": "Harga belum termasuk PPN. Kami siap menyesuaikan paket khusus untuk apartemen, gedung perkantoran, atau kawasan industri.",
+        "consultCta": "Diskusi paket via WhatsApp"
+    },
+    "faq": {
+        "eyebrow": "Pertanyaan Umum",
+        "title": "FAQ",
+        "subtitle": "Jawaban untuk pertanyaan yang paling sering kami terima.",
+        "items": [
+            {
+                "question": "Apakah warga perlu install aplikasi?",
+                "answer": "Tidak. Warga cukup punya WhatsApp. Persetujuan dilakukan lewat link aman yang dikirim langsung dari pesan WA."
+            },
+            {
+                "question": "Bagaimana kalau warga sedang offline atau belum buka WA?",
+                "answer": "Satpam tetap melihat status menunggu di logbook. Setelah jeda yang Anda tentukan, satpam dapat menghubungi warga lewat jalur cadangan atau menerapkan kebijakan internal."
+            },
+            {
+                "question": "Apakah data warga aman?",
+                "answer": "Data tersimpan di server tersertifikasi dengan kontrol akses berbasis peran, log audit, dan backup harian. Kami juga siap menandatangani perjanjian kerahasiaan jika diperlukan."
+            },
+            {
+                "question": "Berapa lama setup di properti baru?",
+                "answer": "Pada umumnya satu hari kerja — termasuk import data warga, pelatihan singkat untuk satpam, dan tes alur end-to-end."
+            },
+            {
+                "question": "Bisa integrasi dengan sistem gerbang otomatis?",
+                "answer": "Ya. Kami punya pengalaman integrasi dengan palang otomatis, RFID, dan beberapa sistem CCTV. Rinci bisa kita diskusikan saat konsultasi."
+            },
+            {
+                "question": "Apakah bisa untuk lebih dari satu gerbang?",
+                "answer": "Tentu. Satu dashboard halotamu dapat melayani banyak gerbang dan banyak properti, dengan akses yang dipisah per cluster atau gedung."
+            },
+            {
+                "question": "Bagaimana cara mulai?",
+                "answer": "Klik tombol WhatsApp di halaman ini. Tim kami akan menanggapi di hari kerja yang sama untuk menjadwalkan demo dan konsultasi gratis."
+            }
+        ]
+    },
+    "finalCta": {
+        "eyebrow": "Saatnya Upgrade",
+        "title": "Siap upgrade keamanan properti Anda?",
+        "subtitle": "Mulai konsultasi gratis lewat WhatsApp. Tim halotamu akan membantu Anda merancang implementasi yang pas.",
+        "cta": "Hubungi via WhatsApp"
+    },
+    "footer": {
+        "tagline": "Buku tamu digital untuk perumahan, apartemen, dan gedung kantor di Indonesia.",
+        "contactHeading": "Kontak",
+        "legalHeading": "Legal",
+        "links": {
+            "privacy": "Kebijakan Privasi",
+            "terms": "Syarat Layanan"
+        },
+        "copyright": "© {year} halotamu. Semua hak dilindungi."
+    },
+    "whatsapp": {
+        "hero": "Halo halotamu, saya tertarik untuk demo halotamu di properti saya.",
+        "header": "Halo halotamu, saya ingin tahu lebih lanjut tentang sistem buku tamu digital halotamu.",
+        "pricing": "Halo halotamu, saya ingin diskusi paket harga untuk properti saya.",
+        "pricingStarter": "Halo halotamu, saya tertarik dengan paket Starter (hingga 50 unit). Boleh dibantu konsultasi?",
+        "pricingGrowth": "Halo halotamu, saya tertarik dengan paket Growth (hingga 150 unit). Boleh dibantu konsultasi?",
+        "pricingPro": "Halo halotamu, saya tertarik dengan paket Pro (lebih dari 150 unit). Boleh dibantu konsultasi?",
+        "finalCta": "Halo halotamu, saya ingin info lebih lanjut tentang sistem buku tamu digital untuk properti saya."
+    },
+    "legal": {
+        "backToHome": "Kembali ke Beranda",
+        "lastUpdatedLabel": "Terakhir diperbarui",
+        "lastUpdated": "10 Mei 2026",
+        "privacy": {
+            "title": "Kebijakan Privasi",
+            "intro": "Halotamu menghargai privasi setiap warga, tamu, dan pengelola properti yang menggunakan layanan kami. Dokumen ini menjelaskan data apa yang kami kumpulkan, untuk apa data itu digunakan, dan bagaimana kami melindunginya.",
+            "sections": [
+                {
+                    "title": "1. Data yang Kami Kumpulkan",
+                    "body": [
+                        "Data warga yang didaftarkan oleh pengelola properti: nama, blok atau nomor unit, dan nomor WhatsApp.",
+                        "Data tamu yang dicatat oleh satpam: nama, nomor HP, keperluan kunjungan, waktu masuk dan keluar, serta opsional foto identitas atau plat kendaraan jika diaktifkan.",
+                        "Data operasional: keputusan persetujuan dari warga, waktu keputusan, dan log audit untuk keperluan keamanan."
+                    ]
+                },
+                {
+                    "title": "2. Cara Kami Menggunakan Data",
+                    "body": [
+                        "Menjalankan alur buku tamu — mulai dari notifikasi WhatsApp, persetujuan warga, hingga laporan kunjungan.",
+                        "Memberikan dukungan teknis kepada pengelola properti dan satpam.",
+                        "Menjaga keamanan layanan, mendeteksi penyalahgunaan, dan memenuhi kewajiban hukum yang berlaku di Indonesia."
+                    ]
+                },
+                {
+                    "title": "3. Berbagi Data",
+                    "body": [
+                        "Kami tidak menjual data warga atau tamu kepada pihak ketiga.",
+                        "Akses data hanya diberikan kepada pengelola properti yang berlangganan dan tim halotamu yang bertugas memberikan dukungan, sesuai prinsip kebutuhan minimal (least privilege).",
+                        "Layanan pendukung seperti penyedia infrastruktur cloud, gateway WhatsApp, dan analitik privasi-friendly memproses data atas nama kami berdasarkan kontrak kerahasiaan."
+                    ]
+                },
+                {
+                    "title": "4. Penyimpanan dan Keamanan",
+                    "body": [
+                        "Data disimpan pada server tersertifikasi dengan enkripsi saat transit (TLS) dan saat istirahat.",
+                        "Akses dashboard dilindungi dengan otentikasi, peran berbasis kebijakan, dan audit log.",
+                        "Kami melakukan pencadangan harian dan mengevaluasi praktik keamanan secara berkala."
+                    ]
+                },
+                {
+                    "title": "5. Retensi Data",
+                    "body": [
+                        "Data tamu disimpan sesuai kebutuhan operasional dan kewajiban audit pengelola properti, dengan retensi default 12 bulan untuk paket Growth dan Pro.",
+                        "Pengelola properti dapat meminta penghapusan data tamu spesifik atau seluruh akun saat berhenti berlangganan."
+                    ]
+                },
+                {
+                    "title": "6. Hak Anda",
+                    "body": [
+                        "Anda berhak meminta akses, koreksi, atau penghapusan atas data pribadi yang kami simpan.",
+                        "Permintaan dapat dikirim melalui WhatsApp resmi halotamu atau email yang tertera di bagian Kontak."
+                    ]
+                },
+                {
+                    "title": "7. Cookie dan Analitik",
+                    "body": [
+                        "Situs ini menggunakan analitik privasi-friendly tanpa pelacakan lintas situs untuk mengukur efektivitas konten.",
+                        "Kami tidak menggunakan cookie iklan pihak ketiga di halaman publik halotamu."
+                    ]
+                },
+                {
+                    "title": "8. Perubahan Kebijakan",
+                    "body": [
+                        "Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Perubahan signifikan akan diinformasikan melalui dashboard pengelola atau email resmi."
+                    ]
+                },
+                {
+                    "title": "9. Kontak",
+                    "body": [
+                        "Untuk pertanyaan terkait privasi, silakan hubungi tim halotamu melalui kanal yang tertera di bagian footer situs ini."
+                    ]
+                }
+            ]
+        },
+        "terms": {
+            "title": "Syarat Layanan",
+            "intro": "Dengan menggunakan layanan halotamu, baik sebagai pengelola properti, satpam, maupun warga, Anda dianggap menyetujui Syarat Layanan ini. Mohon dibaca dengan saksama sebelum mengaktifkan layanan.",
+            "sections": [
+                {
+                    "title": "1. Definisi",
+                    "body": [
+                        "“Layanan” berarti aplikasi web, dashboard satpam, halaman persetujuan, dan integrasi WhatsApp yang disediakan oleh halotamu.",
+                        "“Pelanggan” berarti pengelola properti, RT/RW, atau badan hukum yang berlangganan layanan halotamu.",
+                        "“Pengguna Akhir” berarti satpam, petugas administrasi, dan warga yang dilibatkan dalam alur buku tamu."
+                    ]
+                },
+                {
+                    "title": "2. Lisensi Penggunaan",
+                    "body": [
+                        "Selama berlangganan dan tidak melanggar Syarat Layanan ini, Pelanggan diberikan lisensi terbatas, non-eksklusif, dan tidak dapat dialihkan untuk menggunakan halotamu sesuai jumlah unit pada paket yang dipilih."
+                    ]
+                },
+                {
+                    "title": "3. Tanggung Jawab Pelanggan",
+                    "body": [
+                        "Memastikan data warga yang didaftarkan benar dan diperbarui.",
+                        "Memberi tahu warga bahwa data mereka diolah oleh halotamu untuk keperluan keamanan properti.",
+                        "Menjaga kerahasiaan akun dashboard, termasuk kredensial satpam yang diterbitkan."
+                    ]
+                },
+                {
+                    "title": "4. Kewajiban halotamu",
+                    "body": [
+                        "Menyediakan layanan dengan upaya terbaik (best effort) untuk mencapai uptime tinggi.",
+                        "Memberikan pemberitahuan terkait perawatan terjadwal dan perubahan signifikan pada fitur.",
+                        "Menjaga kerahasiaan data sesuai Kebijakan Privasi."
+                    ]
+                },
+                {
+                    "title": "5. Pembayaran dan Tagihan",
+                    "body": [
+                        "Biaya setup awal sebesar Rp 1.500.000 – Rp 2.500.000 berlaku satu kali per perumahan atau klaster.",
+                        "Langganan bulanan ditagihkan di muka mengikuti paket aktif: Starter Rp 199.000, Growth Rp 349.000, atau Pro Rp 499.000 per bulan.",
+                        "Harga dapat berubah sewaktu-waktu dengan pemberitahuan minimal 30 hari sebelum berlaku.",
+                        "Kegagalan pembayaran dapat menyebabkan penangguhan layanan setelah masa tenggang yang wajar."
+                    ]
+                },
+                {
+                    "title": "6. Pemutusan Layanan",
+                    "body": [
+                        "Pelanggan dapat berhenti berlangganan setiap bulan dengan pemberitahuan melalui WhatsApp atau email resmi.",
+                        "Halotamu dapat menangguhkan atau menghentikan layanan jika terjadi pelanggaran serius terhadap Syarat Layanan, hukum yang berlaku, atau ancaman terhadap keamanan sistem."
+                    ]
+                },
+                {
+                    "title": "7. Batasan Tanggung Jawab",
+                    "body": [
+                        "Halotamu menyediakan alat bantu pencatatan dan persetujuan tamu, namun keputusan akhir untuk mengizinkan tamu masuk tetap berada di tangan warga, satpam, dan pengelola properti.",
+                        "Sejauh diizinkan oleh hukum yang berlaku, tanggung jawab halotamu terhadap kerugian tidak melebihi total biaya langganan yang telah dibayarkan dalam 12 bulan terakhir."
+                    ]
+                },
+                {
+                    "title": "8. Hukum yang Berlaku",
+                    "body": [
+                        "Syarat Layanan ini tunduk pada hukum Republik Indonesia. Setiap perselisihan akan diupayakan diselesaikan secara musyawarah terlebih dahulu sebelum menempuh jalur hukum yang berlaku."
+                    ]
+                },
+                {
+                    "title": "9. Kontak",
+                    "body": [
+                        "Pertanyaan terkait Syarat Layanan dapat disampaikan ke tim halotamu melalui kanal yang tertera pada footer situs."
+                    ]
+                }
+            ]
+        }
+    }
+}

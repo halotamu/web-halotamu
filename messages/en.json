@@ -1,0 +1,447 @@
+{
+    "meta": {
+        "title": "halotamu — Digital Visitor Log for Indonesian Residential & Office Properties",
+        "description": "Residents approve visitors right from WhatsApp before they reach the gate. A digital visitor log built for Indonesian residential complexes, apartments, and offices."
+    },
+    "languageToggle": {
+        "label": "Language",
+        "id": "ID",
+        "en": "EN"
+    },
+    "header": {
+        "links": {
+            "problem": "Problem",
+            "how": "How It Works",
+            "features": "Features",
+            "useCases": "Who It's For",
+            "demo": "Demo",
+            "pricing": "Pricing",
+            "faq": "FAQ"
+        },
+        "cta": "Chat on WhatsApp",
+        "menu": "Menu",
+        "close": "Close"
+    },
+    "hero": {
+        "tag": "Built for properties in Indonesia",
+        "title": "Residents approve visitors straight from WhatsApp, before they reach the gate.",
+        "subtitle": "A digital visitor log for residential complexes, apartments, and offices — secure, fast, and zero extra apps for residents.",
+        "primaryCta": "Chat on WhatsApp",
+        "secondaryCta": "See the Demo",
+        "trustBadges": [
+            "Automatic WhatsApp alerts",
+            "One-click approval",
+            "No app install"
+        ],
+        "mockup": {
+            "appLabel": "WhatsApp",
+            "contactName": "halotamu Gate",
+            "contactStatus": "online",
+            "messageHeading": "Hello Mr. Budi,",
+            "messageBody": "There is a visitor at the gate:",
+            "guestNameLabel": "Name",
+            "guestName": "Andi Saputra",
+            "purposeLabel": "Purpose",
+            "purpose": "Delivering a package",
+            "approve": "Approve",
+            "reject": "Reject",
+            "footnote": "Link valid for 2 hours"
+        }
+    },
+    "problem": {
+        "eyebrow": "The Problem",
+        "title": "Manual visitor logbooks are no longer enough",
+        "subtitle": "Long queues, fake details, and residents in the dark — daily challenges that still hurt many properties.",
+        "items": [
+            {
+                "icon": "clock",
+                "title": "Slow lines at the gate",
+                "description": "Guards write entries by hand and visitors wait — congestion piles up at peak hours."
+            },
+            {
+                "icon": "shield",
+                "title": "Easy to fake, hard to trace",
+                "description": "Visitor identities are scribbled in. When something goes wrong, the records cannot be trusted."
+            },
+            {
+                "icon": "phone-off",
+                "title": "Residents are kept out of the loop",
+                "description": "Phone calls between guards and residents miss often and waste valuable time."
+            }
+        ]
+    },
+    "how": {
+        "eyebrow": "How It Works",
+        "title": "Three steps, fully automated",
+        "subtitle": "From the gate to the living room in minutes — no extra app for residents to install.",
+        "steps": [
+            {
+                "number": "01",
+                "title": "Visitor checks in at the gate",
+                "description": "Guards capture the visitor’s details and pick the host resident from the directory."
+            },
+            {
+                "number": "02",
+                "title": "Resident receives WhatsApp",
+                "description": "An automatic message lands on their phone with visitor details plus Approve and Reject buttons."
+            },
+            {
+                "number": "03",
+                "title": "Guard sees the status live",
+                "description": "The logbook updates instantly. Green means let in, red means stop — no calls needed."
+            }
+        ],
+        "highlight": "Everything via WhatsApp — residents never install another app."
+    },
+    "features": {
+        "eyebrow": "Features",
+        "title": "Designed for everyday operations",
+        "subtitle": "The tools your guards, managers, and residents touch every single day. Simple to use, complete behind the scenes.",
+        "items": [
+            {
+                "icon": "bell",
+                "title": "Automatic WhatsApp Alerts",
+                "description": "Messages reach residents instantly, with no extra setup on their side."
+            },
+            {
+                "icon": "tap",
+                "title": "One-Click Approval",
+                "description": "Residents tap Approve or Reject straight from the WhatsApp message."
+            },
+            {
+                "icon": "log",
+                "title": "Real-Time Digital Logbook",
+                "description": "Always know who is currently inside the property at a glance."
+            },
+            {
+                "icon": "chart",
+                "title": "Daily & Weekly Reports",
+                "description": "Visitor summaries you can share with property management without hassle."
+            },
+            {
+                "icon": "buildings",
+                "title": "Multi-Property",
+                "description": "One dashboard handles many gates and properties under role-based access."
+            },
+            {
+                "icon": "lock",
+                "title": "Secure Cloud Storage",
+                "description": "Automatic backups, role-based access, and complete audit logs."
+            }
+        ]
+    },
+    "useCases": {
+        "eyebrow": "Who It's For",
+        "title": "Any property, one platform",
+        "subtitle": "Tailored to your operational flow — not the other way around.",
+        "items": [
+            {
+                "label": "Residential & Cluster",
+                "title": "Homeowner associations and complex managers",
+                "description": "Designed for clusters with one or more guard posts. Residents feel safer because they help decide who comes in."
+            },
+            {
+                "label": "Apartments & Condominiums",
+                "title": "Towers with many units",
+                "description": "Visitors, couriers, and technicians are sorted automatically. Residents respond from WhatsApp without trekking to the lobby."
+            },
+            {
+                "label": "Office Buildings",
+                "title": "Lobbies and reception desks",
+                "description": "Visitor logs stay tidy for audits while keeping a friendly, professional welcome at the front door."
+            }
+        ]
+    },
+    "demo": {
+        "eyebrow": "Demo",
+        "title": "See it from three angles",
+        "subtitle": "Front-desk for guards, dashboard for management, and the WhatsApp message residents actually get — all included with halotamu.",
+        "items": [
+            {
+                "title": "Guard Front-Desk",
+                "description": "A short check-in form on the tablet or phone the guard already uses.",
+                "badge": "Front-Desk"
+            },
+            {
+                "title": "Management Dashboard",
+                "description": "Live logbook plus daily reports for the property managers.",
+                "badge": "Logbook"
+            },
+            {
+                "title": "Resident WhatsApp",
+                "description": "A short message with visitor details and Approve / Reject buttons.",
+                "badge": "WhatsApp"
+            }
+        ],
+        "footnote": "Want a live walkthrough? We are happy to schedule a video demo whenever you are ready."
+    },
+    "pricing": {
+        "eyebrow": "Pricing",
+        "title": "Plans that match your property size",
+        "subtitle": "A one-time setup fee plus a monthly subscription that scales with your unit count. Every plan includes feature updates and WhatsApp support.",
+        "setup": {
+            "label": "One-Time Setup Fee",
+            "amount": "Rp 1,500,000 – Rp 2,500,000",
+            "frequency": "(one-time payment)",
+            "description": "Installation and configuration of halotamu for a single complex or cluster. Includes guard onboarding and resident WhatsApp registration."
+        },
+        "subscriptionLabel": "Monthly Subscription",
+        "currency": "Rp",
+        "perMonthSuffix": "/ month",
+        "popularBadge": "Most Popular",
+        "plans": [
+            {
+                "id": "starter",
+                "name": "Starter",
+                "tagline": "For smaller clusters going digital for the first time.",
+                "amount": "199,000",
+                "limit": "Up to 50 units",
+                "features": [
+                    "Unlimited WhatsApp notifications",
+                    "Real-time guard dashboard",
+                    "One-click resident approval",
+                    "Basic technical support (business hours)"
+                ],
+                "cta": "Discuss Starter plan"
+            },
+            {
+                "id": "growth",
+                "name": "Growth",
+                "tagline": "The most popular fit for mid-sized complexes.",
+                "amount": "349,000",
+                "limit": "Up to 150 units",
+                "popular": true,
+                "features": [
+                    "Everything in Starter",
+                    "12 months of visitor history",
+                    "Automated monthly reports",
+                    "CSV / Excel data export"
+                ],
+                "cta": "Discuss Growth plan"
+            },
+            {
+                "id": "pro",
+                "name": "Pro",
+                "tagline": "For larger operators with multiple clusters.",
+                "amount": "499,000",
+                "limit": "Over 150 units",
+                "features": [
+                    "Everything in Growth",
+                    "Multi-cluster integration in one dashboard",
+                    "Priority technical support",
+                    "Advanced onboarding & training"
+                ],
+                "cta": "Discuss Pro plan"
+            }
+        ],
+        "footnote": "Prices exclude VAT. Custom plans for apartments, office buildings, or industrial estates available on request.",
+        "consultCta": "Talk plans on WhatsApp"
+    },
+    "faq": {
+        "eyebrow": "Common Questions",
+        "title": "FAQ",
+        "subtitle": "Answers to the questions we hear the most.",
+        "items": [
+            {
+                "question": "Do residents need to install an app?",
+                "answer": "No. Residents only need WhatsApp. Approval happens via a secure link delivered straight to their chat."
+            },
+            {
+                "question": "What if the resident is offline or has not opened WhatsApp?",
+                "answer": "The guard still sees a Pending state in the logbook. After your defined wait, the guard can call a backup contact or apply your internal policy."
+            },
+            {
+                "question": "Is resident data safe?",
+                "answer": "Data lives on certified infrastructure with role-based access, audit logs, and daily backups. We are also open to signing NDAs when needed."
+            },
+            {
+                "question": "How long does setup take for a new property?",
+                "answer": "Typically one business day — including importing resident data, training the guards, and running a full end-to-end test."
+            },
+            {
+                "question": "Does it integrate with automatic gate hardware?",
+                "answer": "Yes. We have integrated with automatic barriers, RFID, and several CCTV systems. Specifics can be scoped during the consultation."
+            },
+            {
+                "question": "Can it support more than one gate?",
+                "answer": "Absolutely. A single halotamu dashboard can serve many gates and many properties, with access scoped per cluster or building."
+            },
+            {
+                "question": "How do we get started?",
+                "answer": "Tap any WhatsApp button on this page. Our team responds the same business day to schedule a free demo and consultation."
+            }
+        ]
+    },
+    "finalCta": {
+        "eyebrow": "Time to upgrade",
+        "title": "Ready to upgrade your property security?",
+        "subtitle": "Start a free consultation on WhatsApp. The halotamu team will help you design the right rollout.",
+        "cta": "Chat on WhatsApp"
+    },
+    "footer": {
+        "tagline": "A digital visitor log for residential complexes, apartments, and offices in Indonesia.",
+        "contactHeading": "Contact",
+        "legalHeading": "Legal",
+        "links": {
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service"
+        },
+        "copyright": "© {year} halotamu. All rights reserved."
+    },
+    "whatsapp": {
+        "hero": "Hi halotamu, I'd like to see a demo at my property.",
+        "header": "Hi halotamu, I'd like to learn more about your digital visitor log.",
+        "pricing": "Hi halotamu, I'd like to discuss pricing options for my property.",
+        "pricingStarter": "Hi halotamu, I'm interested in the Starter plan (up to 50 units). Can we schedule a consultation?",
+        "pricingGrowth": "Hi halotamu, I'm interested in the Growth plan (up to 150 units). Can we schedule a consultation?",
+        "pricingPro": "Hi halotamu, I'm interested in the Pro plan (over 150 units). Can we schedule a consultation?",
+        "finalCta": "Hi halotamu, I'd like more information about the digital visitor log for my property."
+    },
+    "legal": {
+        "backToHome": "Back to home",
+        "lastUpdatedLabel": "Last updated",
+        "lastUpdated": "10 May 2026",
+        "privacy": {
+            "title": "Privacy Policy",
+            "intro": "halotamu respects the privacy of every resident, visitor, and property manager who uses our service. This document explains what data we collect, what we use it for, and how we protect it.",
+            "sections": [
+                {
+                    "title": "1. Data We Collect",
+                    "body": [
+                        "Resident data registered by the property manager: name, block or unit number, and WhatsApp number.",
+                        "Visitor data captured by the guard: name, phone number, purpose of visit, check-in and check-out time, and optionally an ID photo or vehicle plate when enabled.",
+                        "Operational data: resident approval decisions, decision timestamps, and audit logs for security purposes."
+                    ]
+                },
+                {
+                    "title": "2. How We Use Data",
+                    "body": [
+                        "Powering the visitor flow — from WhatsApp notifications and resident approvals to visit reports.",
+                        "Providing technical support to property managers and guards.",
+                        "Securing the service, detecting abuse, and meeting legal obligations under Indonesian law."
+                    ]
+                },
+                {
+                    "title": "3. Data Sharing",
+                    "body": [
+                        "We never sell resident or visitor data to third parties.",
+                        "Access is limited to the subscribed property manager and authorised halotamu staff who provide support, on a least-privilege basis.",
+                        "Supporting providers such as cloud infrastructure, the WhatsApp gateway, and privacy-friendly analytics process data on our behalf under confidentiality agreements."
+                    ]
+                },
+                {
+                    "title": "4. Storage and Security",
+                    "body": [
+                        "Data is stored on certified infrastructure with encryption in transit (TLS) and at rest.",
+                        "Dashboard access is protected with authentication, role-based policies, and audit logs.",
+                        "We perform daily backups and regularly review our security practices."
+                    ]
+                },
+                {
+                    "title": "5. Data Retention",
+                    "body": [
+                        "Visitor data is retained as needed for operational and audit requirements set by the property manager, with a default retention of 12 months on the Growth and Pro plans.",
+                        "Property managers may request deletion of specific visitor records or the entire account upon termination."
+                    ]
+                },
+                {
+                    "title": "6. Your Rights",
+                    "body": [
+                        "You may request access, correction, or deletion of your personal data.",
+                        "Requests can be sent through halotamu's official WhatsApp number or the email listed in the Contact section."
+                    ]
+                },
+                {
+                    "title": "7. Cookies and Analytics",
+                    "body": [
+                        "This site uses privacy-friendly analytics without cross-site tracking to measure content effectiveness.",
+                        "We do not use third-party advertising cookies on halotamu's public pages."
+                    ]
+                },
+                {
+                    "title": "8. Policy Changes",
+                    "body": [
+                        "We may update this policy from time to time. Significant changes will be communicated via the manager dashboard or official email."
+                    ]
+                },
+                {
+                    "title": "9. Contact",
+                    "body": [
+                        "For privacy-related questions, please reach out via the channels listed in the footer of this site."
+                    ]
+                }
+            ]
+        },
+        "terms": {
+            "title": "Terms of Service",
+            "intro": "By using halotamu — whether as a property manager, guard, or resident — you agree to these Terms of Service. Please read them carefully before activating the service.",
+            "sections": [
+                {
+                    "title": "1. Definitions",
+                    "body": [
+                        "“Service” means the web app, guard dashboard, approval pages, and WhatsApp integration provided by halotamu.",
+                        "“Customer” means the property manager, RT/RW board, or legal entity subscribed to halotamu.",
+                        "“End User” means the guards, administrators, and residents involved in the visitor flow."
+                    ]
+                },
+                {
+                    "title": "2. Licence to Use",
+                    "body": [
+                        "Subject to active subscription and these Terms, the Customer is granted a limited, non-exclusive, non-transferable licence to use halotamu within the unit count of the chosen plan."
+                    ]
+                },
+                {
+                    "title": "3. Customer Responsibilities",
+                    "body": [
+                        "Keep registered resident data accurate and up to date.",
+                        "Inform residents that their data is processed by halotamu for property security purposes.",
+                        "Safeguard dashboard credentials, including those issued to guards."
+                    ]
+                },
+                {
+                    "title": "4. halotamu Obligations",
+                    "body": [
+                        "Provide the Service on a best-effort basis with high uptime as the goal.",
+                        "Notify the Customer of scheduled maintenance and significant feature changes.",
+                        "Maintain data confidentiality in line with the Privacy Policy."
+                    ]
+                },
+                {
+                    "title": "5. Payments and Billing",
+                    "body": [
+                        "A one-time setup fee of Rp 1,500,000 – Rp 2,500,000 applies per complex or cluster.",
+                        "Monthly subscriptions are billed in advance based on the active plan: Starter Rp 199,000, Growth Rp 349,000, or Pro Rp 499,000 per month.",
+                        "Pricing may change with at least 30 days' prior notice.",
+                        "Failure to pay may lead to service suspension after a reasonable grace period."
+                    ]
+                },
+                {
+                    "title": "6. Termination",
+                    "body": [
+                        "The Customer may cancel the subscription each month by notifying halotamu via the official WhatsApp number or email.",
+                        "halotamu may suspend or terminate the Service if there is a material breach of these Terms, applicable law, or a security threat to the system."
+                    ]
+                },
+                {
+                    "title": "7. Limitation of Liability",
+                    "body": [
+                        "halotamu provides tooling for visitor capture and approval. Final decisions to admit a visitor remain with the residents, guards, and property managers.",
+                        "To the extent permitted by law, halotamu's liability shall not exceed the total subscription fees paid in the 12 months preceding the claim."
+                    ]
+                },
+                {
+                    "title": "8. Governing Law",
+                    "body": [
+                        "These Terms are governed by the laws of the Republic of Indonesia. Disputes will first be settled amicably before pursuing applicable legal remedies."
+                    ]
+                },
+                {
+                    "title": "9. Contact",
+                    "body": [
+                        "Questions about these Terms can be sent to the halotamu team via the channels listed in the site footer."
+                    ]
+                }
+            ]
+        }
+    }
+}
