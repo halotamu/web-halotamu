@@ -3,12 +3,12 @@ function trimNumber(value: string) {
 }
 
 const fallbackWhatsAppNumber = "6285157578726";
-const fallbackEmail = "halo@halotamu.my.id";
-const fallbackSiteUrl = "https://halotamu.my.id";
+const fallbackEmail = "halo@halotamu.id";
+const fallbackSiteUrl = "https://halotamu.id";
 
 export const siteConfig = {
     name: "halotamu",
-    domain: "halotamu.my.id",
+    domain: "halotamu.id",
     siteUrl: process.env.NEXT_PUBLIC_SITE_URL?.trim() || fallbackSiteUrl,
     whatsappNumber:
         trimNumber(process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "") || fallbackWhatsAppNumber,
