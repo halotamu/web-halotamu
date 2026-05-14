@@ -30,10 +30,10 @@ Buat `.env.local` (opsional) untuk override default:
 NEXT_PUBLIC_WHATSAPP_NUMBER=6281234567890
 
 # Email kontak yang muncul di footer
-NEXT_PUBLIC_CONTACT_EMAIL=halo@halotamu.id
+NEXT_PUBLIC_CONTACT_EMAIL=halo@halotamu.my.id
 
 # URL canonical untuk metadata
-NEXT_PUBLIC_SITE_URL=https://halotamu.id
+NEXT_PUBLIC_SITE_URL=https://halotamu.my.id
 ```
 
 ## Struktur
