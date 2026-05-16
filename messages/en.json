@@ -188,6 +188,16 @@
         "subscriptionLabel": "Monthly Subscription",
         "currency": "Rp",
         "perMonthSuffix": "/ month",
+        "perYearSuffix": "/ year",
+        "lifetimeSuffix": "(one-time)",
+        "freeLabel": "Free",
+        "customPriceLabel": "Contact us",
+        "billingMonthly": "Monthly",
+        "billingYearly": "Yearly",
+        "trialLabel": "Includes a {days}-day trial",
+        "limitTemplateUnits": "Up to {units} units",
+        "limitUnlimitedUnits": "Unlimited units",
+        "loadError": "Could not load the latest plans. Showing fallback list.",
         "popularBadge": "Most Popular",
         "plans": [
             {

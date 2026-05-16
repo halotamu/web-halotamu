@@ -188,6 +188,16 @@
         "subscriptionLabel": "Langganan Bulanan",
         "currency": "Rp",
         "perMonthSuffix": "/ bulan",
+        "perYearSuffix": "/ tahun",
+        "lifetimeSuffix": "(sekali bayar)",
+        "freeLabel": "Gratis",
+        "customPriceLabel": "Hubungi kami",
+        "billingMonthly": "Bulanan",
+        "billingYearly": "Tahunan",
+        "trialLabel": "Termasuk uji coba {days} hari",
+        "limitTemplateUnits": "Hingga {units} unit rumah",
+        "limitUnlimitedUnits": "Unit rumah tidak terbatas",
+        "loadError": "Gagal memuat daftar paket terbaru. Menampilkan paket cadangan.",
         "popularBadge": "Paling Populer",
         "plans": [
             {
