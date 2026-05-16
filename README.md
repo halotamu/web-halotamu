@@ -19,7 +19,7 @@ npm install
 npm run dev
 ```
 
-Buka <http://localhost:3000>.
+Buka <http://localhost:8080>.
 
 ## Konfigurasi
 
